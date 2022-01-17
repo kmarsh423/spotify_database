@@ -1,0 +1,2 @@
+# spotify_databse
+The contents of our database are the Spotify songs found in our respective playlists. We will be using the data associated with each song, collected by both private and public playlists, in order to discern any correlations between popularity and the various metadata belonging to any specific song. This metadata includes, but is not limited to, valence, danceability, loudness, genre, duration, collaborating artists, and more. This way a user would be able to assess any correlation that they so choose.
